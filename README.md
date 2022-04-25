@@ -1,7 +1,5 @@
 # Composer template for Drupal projects emphazis in connection databases
 
-[![CI](https://github.com/drupal-composer/drupal-project/actions/workflows/ci.yml/badge.svg?branch=9.x)](https://github.com/drupal-composer/drupal-project/actions/workflows/ci.yml)
-
 This code provides a way to connect drupal with database with [Composer](https://getcomposer.org/).
 
 ## Requirements
